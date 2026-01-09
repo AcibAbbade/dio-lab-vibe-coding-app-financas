@@ -125,11 +125,17 @@ Prints das interações com a ia:
 <img width="758" height="790" alt="image" src="https://github.com/user-attachments/assets/f0d1a537-b77e-4637-b8d0-1a2f197446da" />
 1- Envio do PRD
 
+---
+
 <img width="481" height="524" alt="image" src="https://github.com/user-attachments/assets/7d8c4e61-9436-4258-b88e-21cea4be8d83" />
 2- Socilitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
 
+---
+
 <img width="469" height="451" alt="image" src="https://github.com/user-attachments/assets/b8e61a2e-7e21-423c-acf6-ecc93dc5970f" />
 3- Pedi para a IA exibir data e hora na tela principal, e em todas as transações
+
+---
 
 <img width="480" height="447" alt="image" src="https://github.com/user-attachments/assets/4f861428-bf91-442e-8686-d3f48a363ea1" />
 4- Eu falando para IA que a data e hora ainda nao estava sendo exibida, ai acabaram os creditos.
