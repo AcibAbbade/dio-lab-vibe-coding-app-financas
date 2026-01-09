@@ -149,7 +149,8 @@ https://chat-cents-65.lovable.app/
 
 
 
-Inserindo informações
+# Inserindo informações
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/addf89ae-b938-4bef-a4b0-387191cd0864" />
 
@@ -158,7 +159,9 @@ Inserindo informações
 
 
 
-Painel
+
+# Painel
+
 
 <img width="884" height="789" alt="image" src="https://github.com/user-attachments/assets/b85fd680-d8fd-4d61-bee1-68dbc3aeb51d" />
 
@@ -167,8 +170,10 @@ Painel
 
 
 
-Relatorios
+# Relatorios
 <img width="819" height="786" alt="image" src="https://github.com/user-attachments/assets/01e3d4b8-58a5-4e9e-8743-f0257d7187d4" />
+
+
 
 ---
 
