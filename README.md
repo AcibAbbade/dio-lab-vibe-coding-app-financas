@@ -121,7 +121,7 @@ Este PRD une:
 
 
 
-# 1- Socilitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
+# 1- Solicitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
 
 <img width="481" height="524" alt="image" src="https://github.com/user-attachments/assets/7d8c4e61-9436-4258-b88e-21cea4be8d83" />
 
