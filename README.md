@@ -115,32 +115,45 @@ Este PRD une:
 
 ```
 
-Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
 
-> [!TIP]
-> Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
+Link para o App
+https://chat-cents-65.lovable.app/
 
-### 2. Explorando o Lovable na Prática
 
-Com seu PRD pronto e revisado, é hora de colocar a IA em ação. Abra o Lovable, cole seu prompt completo e peça o plano inicial do MVP do seu aplicativo. Como o plano gratuito limita você a 5 interações por dia, seja estratégico:
-- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”;
-- Priorize clareza nas instruções para aproveitar ao máximo cada resposta;
+Prints das interações com a ia:
 
-Durante essa etapa, você pode orientar a IA para três entregas principais:
-1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
-2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
-3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
+<img width="758" height="790" alt="image" src="https://github.com/user-attachments/assets/f0d1a537-b77e-4637-b8d0-1a2f197446da" />
+1- Envio do PRD
 
-> [!TIP]
-> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+<img width="481" height="524" alt="image" src="https://github.com/user-attachments/assets/7d8c4e61-9436-4258-b88e-21cea4be8d83" />
+2- Socilitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
 
-### 3. Entregando o Desafio na DIO
+<img width="469" height="451" alt="image" src="https://github.com/user-attachments/assets/b8e61a2e-7e21-423c-acf6-ecc93dc5970f" />
+3- Pedi para a IA exibir data e hora na tela principal, e em todas as transações
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
+<img width="480" height="447" alt="image" src="https://github.com/user-attachments/assets/4f861428-bf91-442e-8686-d3f48a363ea1" />
+4- Eu falando para IA que a data e hora ainda nao estava sendo exibida, ai acabaram os creditos.
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
+
+ 
+ Prints das interações com o App.
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa79985b-2f0a-4c14-afdb-6ae09848c4e5" />
+Primeira tela do aplicativo
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/addf89ae-b938-4bef-a4b0-387191cd0864" />
+Inserindo informações
+
+
+<img width="884" height="789" alt="image" src="https://github.com/user-attachments/assets/b85fd680-d8fd-4d61-bee1-68dbc3aeb51d" />
+Painel
+
+<img width="819" height="786" alt="image" src="https://github.com/user-attachments/assets/01e3d4b8-58a5-4e9e-8743-f0257d7187d4" />
+Relatorios
+
+
+
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
