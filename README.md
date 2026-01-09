@@ -125,21 +125,28 @@ https://chat-cents-65.lovable.app/
 
 
 1- Socilitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
+
 <img width="481" height="524" alt="image" src="https://github.com/user-attachments/assets/7d8c4e61-9436-4258-b88e-21cea4be8d83" />
 
 
 ---
 
+
 2- Pedi para a IA exibir data e hora na tela principal, e em todas as transações
+
 <img width="469" height="451" alt="image" src="https://github.com/user-attachments/assets/b8e61a2e-7e21-423c-acf6-ecc93dc5970f" />
 
 ---
 
-3 - Eu falando para IA que a data e hora ainda nao estava sendo exibida, ai acabaram os creditos.
+
+3 -Data e hora ainda nao estava sendo exibida, ai acabaram os creditos.
+
 <img width="480" height="447" alt="image" src="https://github.com/user-attachments/assets/4f861428-bf91-442e-8686-d3f48a363ea1" />
 
  
 ## Prints das interações com o App.
+
+
 
 
 Inserindo informações
@@ -149,11 +156,16 @@ Inserindo informações
 
 ---
 
+
+
 Painel
+
 <img width="884" height="789" alt="image" src="https://github.com/user-attachments/assets/b85fd680-d8fd-4d61-bee1-68dbc3aeb51d" />
 
 
 ---
+
+
 
 Relatorios
 <img width="819" height="786" alt="image" src="https://github.com/user-attachments/assets/01e3d4b8-58a5-4e9e-8743-f0257d7187d4" />
@@ -161,12 +173,76 @@ Relatorios
 ---
 
 
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem: - O refinamento do PRD ajudou a refinar e palidar melhor as instruções para o Lovable, ainda mais cinsiderando que são poucos creditos que nos foi disponibilizado para interações com a ferramenta.
-    
-  - O que não funcionou como o esperado: - Soliicei a exibição de data e Hora na tela principal .
 
-  - O que aprendeu sobre conversar com IAs: - Quando mais detalhes e clareza , melhores são os resultados.
+### Um resumo do que o seu **App de Finanças Pessoais** faz;
+
+ # ✨ Funcionalidades do Aplicativo de Finanças Pessoais
+
+Este aplicativo foi projetado para oferecer uma experiência **conversacional, acessível e educativa**, conforme descrito no PRD.  
+Abaixo estão as funcionalidades já implementadas e previstas, organizadas de forma clara e visual.
+
+---
+
+## 📌 1. Registro e Classificação de Transações
+- ✅ Registro de **entradas e saídas financeiras**.  
+- ✅ **Classificação automática** por categoria (ex.: Alimentação, Transporte).  
+- ✅ Cálculo de **percentual por categoria** com visualização clara.  
+
+---
+
+## 📊 2. Relatórios Visuais e Personalizados
+- 📅 Painel mensal com resumo de movimentações (**Entradas, Saídas, Saldo**).  
+- 📈 Gráficos e indicadores simples para facilitar a leitura.  
+- 📑 Resumo rápido com número de transações e taxa de economia.  
+
+---
+
+## 💡 3. Insights Financeiros
+- 📉 Cálculo do **gasto médio diário**.  
+- 🎯 Feedback positivo com mensagens motivacionais (ex.: *“Você está no positivo!”*).  
+- 💰 Destaque para saldo disponível e incentivo à continuidade.  
+
+---
+
+## 🎯 4. Metas e Acompanhamento *(previsto no PRD)*
+- Definição de **metas mensais ou semanais**.  
+- Acompanhamento visual do progresso.  
+- Alertas e recomendações personalizadas.  
+
+---
+
+## 🤖 5. Agente Financeiro Inteligente *(previsto no PRD)*
+- Sugestões automáticas de economia com base no comportamento do usuário.  
+- Tom **amigável e educativo**.  
+- Personalização por perfil de uso.  
+
+---
+
+## 🌍 6. Design Universal
+- Interface **clara e acessível** para todos os perfis de usuário.  
+- Informações perceptíveis com contraste e organização visual.  
+- Linguagem simples e direta.  
+- Ideal para iniciantes e pessoas com diferentes níveis de familiaridade com finanças.  
+
+---
+
+### ✅ Conclusão
+Este conjunto de funcionalidades garante que o aplicativo seja:  
+- **Simples** → fácil de usar.  
+- **Eficiente** → automatiza tarefas repetitivas.  
+- **Inclusivo** → acessível ao maior número de pessoas possível.  
+
+Tudo isso alinhado com os princípios de **Vibecoding** e **Design Universal** descritos no PRD.
+
+
+
+
+## Uma breve **reflexão sobre o processo**:
+
+  # O que funcionou bem: - O refinamento do PRD ajudou a refinar e palidar melhor as instruções para o Lovable, ainda mais cinsiderando que são poucos creditos que nos foi disponibilizado para interações com a ferramenta.
+    
+  # O que não funcionou como o esperado: - Soliicei a exibição de data e Hora na tela principal .
+
+  # O que aprendeu sobre conversar com IAs: - Quando mais detalhes e clareza , melhores são os resultados.
 
 
