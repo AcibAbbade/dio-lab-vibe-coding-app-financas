@@ -1,7 +1,7 @@
-##  App de Organização de Finanças Pessoais com Vibe Coding
+###  App de Organização de Finanças Pessoais com Vibe Coding
 
 
-Esse foi o desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web, que tem como meta o desenvolvimento de um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
+## Esse foi o desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web, que tem como meta o desenvolvimento de um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
 ---
 
@@ -251,12 +251,12 @@ Tudo isso alinhado com os princípios de **Vibecoding** e **Design Universal** d
 
 
 
-## Uma breve **reflexão sobre o processo**:
+### Uma breve **reflexão sobre o processo**:
 
-  # O que funcionou bem: - O refinamento do PRD ajudou a refinar e palidar melhor as instruções para o Lovable, ainda mais cinsiderando que são poucos creditos que nos foi disponibilizado para interações com a ferramenta.
+   O que funcionou bem: - O refinamento do PRD ajudou a refinar e palidar melhor as instruções para o Lovable, ainda mais cinsiderando que são poucos creditos que nos foi disponibilizado para interações com a ferramenta.
     
-  # O que não funcionou como o esperado: - Soliicei a exibição de data e Hora na tela principal .
+   O que não funcionou como o esperado: - Soliicei a exibição de data e Hora na tela principal .
 
-  # O que aprendeu sobre conversar com IAs: - Quando mais detalhes e clareza , melhores são os resultados.
+   O que aprendeu sobre conversar com IAs: - Quando mais detalhes e clareza , melhores são os resultados.
 
 
