@@ -144,7 +144,7 @@ Este PRD une:
 
 
  
-### Prints das interações com o App.
+### Interações com o App.
 
 
 
