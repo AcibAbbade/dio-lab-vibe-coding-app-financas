@@ -116,35 +116,35 @@ Este PRD une:
 ```
 
 
-## Link para o App
-https://chat-cents-65.lovable.app/
 
-
-##Prints das interações com a ia:
+### Prints das interações com a ia:
 
 
 
-1- Socilitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
+# 1- Socilitando que zerasse tudo pois haviam alguns dados que a IA inseriu.
 
 <img width="481" height="524" alt="image" src="https://github.com/user-attachments/assets/7d8c4e61-9436-4258-b88e-21cea4be8d83" />
 
 
----
 
 
-2- Pedi para a IA exibir data e hora na tela principal, e em todas as transações
+
+# 2- Pedi para a IA exibir data e hora na tela principal, e em todas as transações
 
 <img width="469" height="451" alt="image" src="https://github.com/user-attachments/assets/b8e61a2e-7e21-423c-acf6-ecc93dc5970f" />
 
----
 
 
-3 -Data e hora ainda nao estava sendo exibida, ai acabaram os creditos.
+# 3 -Data e hora ainda nao estava sendo exibida, ai acabaram os creditos.
 
 <img width="480" height="447" alt="image" src="https://github.com/user-attachments/assets/4f861428-bf91-442e-8686-d3f48a363ea1" />
 
+---
+
+
+
  
-## Prints das interações com o App.
+### Prints das interações com o App.
 
 
 
@@ -155,7 +155,7 @@ https://chat-cents-65.lovable.app/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/addf89ae-b938-4bef-a4b0-387191cd0864" />
 
 
----
+
 
 
 
@@ -166,7 +166,7 @@ https://chat-cents-65.lovable.app/
 <img width="884" height="789" alt="image" src="https://github.com/user-attachments/assets/b85fd680-d8fd-4d61-bee1-68dbc3aeb51d" />
 
 
----
+
 
 
 
@@ -179,7 +179,16 @@ https://chat-cents-65.lovable.app/
 
 
 
+## Link para o App
+https://chat-cents-65.lovable.app/
+
+
+
+
+
+
 ### Um resumo do que o seu **App de Finanças Pessoais** faz;
+
 
  # ✨ Funcionalidades do Aplicativo de Finanças Pessoais
 
